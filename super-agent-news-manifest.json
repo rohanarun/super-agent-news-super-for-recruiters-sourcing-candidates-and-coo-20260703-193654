@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[citybiz.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT3J5cnd4ZEJuZkxtdG0xYUlMVkswQ21Tak05MExlc0xwdzBDU1dJOXdlb2NuOEUwZEJYRTlOdnN6Y2p1MXpmd25TVWQycDJLUXZya09lS1NpdW1wazhESHhwYjZ3cG9vcGoxbHJlTlB5NUI5dzF3THFHR3hCOHVKQWFUMzdVbFZ0UjRWQUowTVBqdVdJbE1QZVdoeTJkNEZ2Y3V3dUxvV1pvZWZyYVNvWGNZdzVDSnNOTmZzNmtxSGJNVlN5M1dYbmdfS0h4SWQ2Y1JGZQ?oc=5)",
+    "[yahoo.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNODFlbFplSnZYVjJ5aURud2I3RHlsTnlyV0szUnRWdnM1M3NJQ0UweXNOSFlSTHlXajBvU2t4RmVVR05tMlR2YS1odWIyQlpMemFjS3NoMUk5Vlc4dm4tRXlTWnRYTmtuWVkwYWdrTGxMeWhXRjc4ZW1ST2FmdkxVRlNuMjlDZGtNTHAtMGRxUFpWZmVZaTVISmRLSC1UdGs?oc=5)",
+    "[forbes.com](https://news.google.com/rss/articles/CBMifEFVX3lxTFBFMERmY2ZPUklkbC1iRm9ZQ3pPcFpKUmpVd0dIRzhDY1pDUzRaMnZlQ3A1YnNzYklrVjZ5azlZaGJldTViWkl1NFZ3WWh1eXh6RlR1Qjk3ZHZKTkIxWklobzB2bXp4aGFjNGlJNkt2dzNSdmJkdDh5Umtvd1c?oc=5)",
+    "[shrm.org](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkdtSG5WMEh2UzEybUhLNHZPdkhic01lUW41bjFDMGpYT0JEQVFsVWhpdkNRR2pHSXdvUEZUWUtnOEhpeWFxdnNwcW52YWNibkdxdTdwODRXWWhkZnhsbW1CdU9XT2p1QXNwSFQtXzFqaFJjVnlLZlVBM2ZNZ3E2MEhMbVl1S0s2SFZ4b3ZrLU4xWldobHhQN0RNVjZBSGtRUVlXSkdZMVBUOUdROTFvbDBlSzA?oc=5)",
+    "[memeburn.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5)",
+    "[treasure.tools](https://treasure.tools/ai-css-generator)",
+    "[tools.jlvextension.com](https://tools.jlvextension.com/hero-section-generator/)"
+  ],
+  "design_plan": "rng=42; AIDA pass OK; hero max-width 1120px -> 2\u20133 line flow; centered hero & actions verified; bento + compare grids include grid-auto-flow:dense; contrast check: ink/white pills; competitors label sweep complete; cache phrase included; sources mapped to recruiter + workflow automation trend.",
+  "generated_at": "2026-07-03T19:37:01.259912+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page showing how recruiters use Super\u2019s personal AI agents to source candidates, operate ATS and scheduling tools, and reuse a computer\u2011use cache so repetitive interview coordination gets faster and cheaper over time."
+}
